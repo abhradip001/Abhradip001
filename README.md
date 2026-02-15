@@ -82,9 +82,12 @@ public class AbhradipMandal {
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge)
 ![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
+
 
 ---
 
@@ -99,3 +102,111 @@ public class AbhradipMandal {
 
 </div>
 
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🏥 DocTalk-AI
+
+> 💡 AI-powered digital healthcare platform designed to simplify doctor-patient interaction and smart medical consultation.
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### ✨ Key Features
+
+- 🤖 AI Symptom Checker  
+- 📅 Smart Appointment Booking  
+- 💳 Razorpay Integration  
+- 🎥 Video Consultation  
+- 🔐 Role-Based Authentication  
+
+<div align="center">
+
+<a href="YOUR_DOCTALK_REPO_LINK">
+<img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🛒 E-Commerce Platform
+
+> 💡 Full-featured scalable e-commerce platform with authentication, cart management, and admin control.
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge)
+![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### ✨ Key Features
+
+- 🔐 Authentication & Authorization  
+- 🛍 Shopping Cart & Checkout  
+- 📦 Product & Order Management  
+- 📊 Admin Dashboard  
+- 💳 Payment-Ready Architecture  
+
+<div align="center">
+
+<a href="YOUR_ECOMMERCE_REPO_LINK">
+<img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ♟️ Real-Time Chess Game
+
+> 💡 Interactive real-time multiplayer chess game with live move synchronization.
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### ✨ Key Features
+
+- ♟️ Interactive Chess Board  
+- 🔄 Real-Time Multiplayer (Socket.io)  
+- 🧠 Move Validation Logic  
+- 🎮 Turn-Based Gameplay  
+- 🌐 Responsive UI  
+
+<div align="center">
+
+<a href="YOUR_CHESS_REPO_LINK">
+<img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
