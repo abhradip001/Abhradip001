@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Abhradip001&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
+
 
 ---
 
