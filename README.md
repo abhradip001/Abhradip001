@@ -252,19 +252,19 @@ public class AbhradipMandal {
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-90_Abhradip_Mandal_CSE3B-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abhradipmandal">
-<img src="https://img.shields.io/badge/LinkedIn-Abhradip_Mandal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://twitter.com/cse3b50463">
-<img src="https://img.shields.io/badge/Twitter-@cse3b50463-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 <a href="https://drive.google.com/uc?export=view&id=12xbFqw6pvOQoOVOW7tGMp1nIi7QUmTxf">
-<img src="https://img.shields.io/badge/Resume-Download-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
 </a>
 
 </p>
