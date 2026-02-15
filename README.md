@@ -16,25 +16,54 @@
 
 ---
 
-# 🧠 About Me
+## 🎯 About Me
 
-```java
-class Developer {
-
-    String name = "Abhradip Mandal";
-    String role = "Full Stack Developer";
-    String location = "India 🇮🇳";
-
-    String[] languages = {"Java ❤️", "JavaScript", "SQL"};
-    String[] backend = {"Node.js", "Express", "MongoDB", "JWT"};
-    String[] frontend = {"React", "Tailwind CSS", "HTML", "EJS"};
-    String[] interests = {"Artificial Intelligence", 
-                          "System Design", 
-                          "Scalable Architectures"};
-
-    void lifeGoal() {
-        build("impactful systems");
-        scale("ideas");
-        optimize("everything");
-    }
+```python
+Abhradip = {
+    "name": "Abhradip Mandal",
+    "education": "B.Tech CSE | Narula Institute of Technology (2022–2026)",
+    "location": "Kolkata, India 🇮🇳",
+    "current_role": "Final Year Student",
+    
+    "passion": [
+        "Problem Solving",
+        "Building Impactful Tech Solutions",
+        "Scalable System Thinking"
+    ],
+    
+    "philosophy": "Clean code. Continuous learning. Long-term thinking.",
+    
+    "skills": {
+        "languages": ["Java ❤️", "C", "SQL", "JavaScript", "HTML/CSS"],
+        
+        "web_development": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "MERN Stack"
+        ],
+        
+        "core_cs": [
+            "Data Structures & Algorithms",
+            "Object Oriented Programming",
+            "DBMS",
+            "Operating Systems",
+            "Computer Networks",
+            "System Design"
+        ]
+    },
+    
+    "competitive_programming": {
+        "LeetCode": "300+ Problems Solved 💪",
+        "HackerRank": "4★ ⭐⭐⭐⭐"
+    },
+    
+    "interests": [
+        "Technology",
+        "Finance",
+        "Competitive Programming",
+        "Cricket 🏏",
+        "Geopolitics 🌍"
+    ]
 }
+
