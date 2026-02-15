@@ -259,10 +259,6 @@ public class AbhradipMandal {
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/cse3b50463">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
 
 <a href="https://drive.google.com/uc?export=view&id=12xbFqw6pvOQoOVOW7tGMp1nIi7QUmTxf">
 <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
