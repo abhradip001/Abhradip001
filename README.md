@@ -18,52 +18,45 @@
 
 ## 🎯 About Me
 
-```python
-Abhradip = {
-    "name": "Abhradip Mandal",
-    "education": "B.Tech CSE | Narula Institute of Technology (2022–2026)",
-    "location": "Kolkata, India 🇮🇳",
-    "current_role": "Final Year Student",
-    
-    "passion": [
-        "Problem Solving",
-        "Building Impactful Tech Solutions",
-        "Scalable System Thinking"
-    ],
-    
-    "philosophy": "Clean code. Continuous learning. Long-term thinking.",
-    
-    "skills": {
-        "languages": ["Java ❤️", "C", "SQL", "JavaScript", "HTML/CSS"],
-        
-        "web_development": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "MERN Stack"
-        ],
-        
-        "core_cs": [
-            "Data Structures & Algorithms",
-            "Object Oriented Programming",
-            "DBMS",
-            "Operating Systems",
-            "Computer Networks",
-            "System Design"
-        ]
-    },
-    
-    "competitive_programming": {
-        "LeetCode": "300+ Problems Solved 💪",
-        "HackerRank": "4★ ⭐⭐⭐⭐"
-    },
-    
-    "interests": [
+```java
+public class AbhradipMandal {
+
+    // Basic Info
+    String name = "Abhradip Mandal";
+    String role = "Full Stack Developer";
+    String education = "B.Tech CSE | Narula Institute of Technology (2022–2026)";
+    String location = "Kolkata, India 🇮🇳";
+
+    // Mindset
+    String philosophy = "Clean code. Continuous learning. Scalable thinking.";
+
+    // Skills
+    String[] languages = {"Java ❤️", "C", "SQL", "JavaScript", "HTML/CSS"};
+    String[] webDevelopment = {"MERN Stack", "HTML", "CSS", "JavaScript"};
+    String[] coreCS = {
+        "Data Structures & Algorithms",
+        "OOP",
+        "DBMS",
+        "Operating Systems",
+        "Computer Networks",
+        "System Design"
+    };
+
+    // Competitive Programming
+    String leetCode = "300+ Problems Solved 💪";
+    String hackerRank = "4★ ⭐⭐⭐⭐";
+
+    // Interests
+    String[] interests = {
         "Technology",
         "Finance",
         "Competitive Programming",
         "Cricket 🏏",
         "Geopolitics 🌍"
-    ]
+    };
+
+    void mission() {
+        System.out.println("Build scalable systems and impactful tech solutions 🚀");
+    }
 }
 
