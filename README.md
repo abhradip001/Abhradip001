@@ -246,9 +246,6 @@ public class AbhradipMandal {
 > 💡 Building strong fundamentals to design scalable, efficient, and production-ready systems.
 
 ---
----
-
----
 
 # 💬 Let's Connect!
 
