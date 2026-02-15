@@ -210,3 +210,39 @@ public class AbhradipMandal {
 </div>
 
 ---
+---
+
+# 🎓 Education & Coursework
+
+<div align="center">
+
+### 🏫 Narula Institute of Technology  
+**B.Tech in Computer Science & Engineering (2022 – 2026)**  
+
+</div>
+
+<br>
+
+### 📚 Core Coursework
+
+- 🧠 **Data Structures & Algorithms**
+- 🏗 **Object-Oriented Programming**
+- 🗄 **Database Management Systems**
+- ⚙ **Operating Systems**
+- 🌐 **Computer Networks**
+- 🏛 **System Design**
+
+<br>
+
+### 🚀 Focus Areas
+
+- 🔄 Scalability & Distributed Systems  
+- 📦 Database Optimization  
+- 🔐 System Architecture & Security  
+- ⚡ Performance Optimization  
+
+<br>
+
+> 💡 Building strong fundamentals to design scalable, efficient, and production-ready systems.
+
+---
