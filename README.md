@@ -246,3 +246,44 @@ public class AbhradipMandal {
 > 💡 Building strong fundamentals to design scalable, efficient, and production-ready systems.
 
 ---
+---
+
+# 💬 Let's Connect!
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhradipmandal">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/uc?export=view&id=12xbFqw6pvOQoOVOW7tGMp1nIi7QUmTxf">
+<img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💌 <b>Open to collaboration on scalable, impactful tech projects!</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhradip001&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+✨ <i>"Clean code builds systems. Scalable thinking builds the future."</i>
+</p>
