@@ -134,7 +134,7 @@ public class AbhradipMandal {
 
 <div align="center">
 
-<a href="[YOUR_DOCTALK_REPO_LINK](https://github.com/abhradip001/doctalk-ai)">
+<a href="https://github.com/abhradip001/doctalk-ai">
 <img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -168,7 +168,7 @@ public class AbhradipMandal {
 
 <div align="center">
 
-<a href="[YOUR_ECOMMERCE_REPO_LINK](https://github.com/abhradip001/E-commerce-Grocery)">
+<a href="https://github.com/abhradip001/E-commerce-Grocery">
 <img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -203,7 +203,7 @@ public class AbhradipMandal {
 
 <div align="center">
 
-<a href="[YOUR_CHESS_REPO_LINK](https://github.com/abhradip001/chess)">
+<a href="https://github.com/abhradip001/chess">
 <img src="https://img.shields.io/badge/🔗_View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
