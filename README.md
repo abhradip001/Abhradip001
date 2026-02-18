@@ -32,8 +32,9 @@ public class AbhradipMandal {
     String philosophy = "Clean code. Continuous learning. Scalable thinking.";
 
     // Skills
-    String[] languages = {"Java ❤️", "C", "SQL", "JavaScript", "HTML/CSS"};
+    String[] languages = {"Java ❤️", "C", "SQL", "Python", "JavaScript", "HTML/CSS"};
     String[] webDevelopment = {"MERN Stack", "HTML", "CSS", "JavaScript"};
+    String[] DataAnalysis & Visualization = {"Power BI"};
     String[] coreCS = {
         "Data Structures & Algorithms",
         "OOP",
@@ -70,6 +71,7 @@ public class AbhradipMandal {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
@@ -88,6 +90,15 @@ public class AbhradipMandal {
 
 </div>
 
+---
+
+### 📊 Data Analysis & Visualization  
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
 
 ---
 
